@@ -18,8 +18,8 @@ After you've setup the repository in GitHub, create a new branch to answer each 
 The subject matter for the questions is up to you, so feel free to have fun with them. Oh, and please don't use the example questions above!
 
 ### Trivia Questions
-
-
+2. Who is known as the father of computers?
+Answer: Charles Babbage.
 
 ## Part 2
 Part 2 of this exercise can be found here: https://github.com/jrmykolyn/branching-practice.
