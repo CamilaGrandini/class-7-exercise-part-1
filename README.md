@@ -18,7 +18,8 @@ After you've setup the repository in GitHub, create a new branch to answer each 
 The subject matter for the questions is up to you, so feel free to have fun with them. Oh, and please don't use the example questions above!
 
 ### Trivia Questions
-
+3. What was the name of the first computer programmer?
+Answer: Ada Lovelace.
 
 
 ## Part 2
